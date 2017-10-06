@@ -1,2 +1,2 @@
 # hello-world
-This repo is used for sharing random stuff
+This repo is used for sharing random assets
